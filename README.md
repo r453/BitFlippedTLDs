@@ -1,5 +1,8 @@
 # Bit-Flipped Domain Checker
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/r453/BitFlippedTLDs?display_name=tag)
+
 A Python security tool that identifies domain variants by analyzing single-bit flips in both:
 1. **Top-level domains (TLDs)** - checks if bit-flipped TLDs are valid/registrable
 2. **Domain names** - generates all possible bit-flipped character variants
